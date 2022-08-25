@@ -1,0 +1,15 @@
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.deps.json
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.dll
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.pdb
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfo.cs
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CopyComplete
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.dll
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\refint\CleanArchMvc.Application.dll
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.pdb
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\ref\CleanArchMvc.Application.dll
