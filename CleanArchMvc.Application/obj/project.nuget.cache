@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fND4qWJ75fJRjfM8FcUo/sTHqycs6PN4jvoTSOQSPEIc7CcwMJmfR0kNqGZkHGfXnOBljqiAUPT3LtQdX1ZLvg==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\zedlu\\Documents\\Projetos\\C#\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zedlu\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zedlu\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\zedlu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\zedlu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
