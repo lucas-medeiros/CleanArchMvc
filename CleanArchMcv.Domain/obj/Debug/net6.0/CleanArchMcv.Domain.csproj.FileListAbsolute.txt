@@ -1,0 +1,12 @@
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\bin\Debug\net6.0\CleanArchMcv.Domain.deps.json
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\bin\Debug\net6.0\CleanArchMcv.Domain.dll
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\bin\Debug\net6.0\CleanArchMcv.Domain.pdb
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\obj\Debug\net6.0\CleanArchMcv.Domain.csproj.AssemblyReference.cache
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\obj\Debug\net6.0\CleanArchMcv.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\obj\Debug\net6.0\CleanArchMcv.Domain.AssemblyInfoInputs.cache
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\obj\Debug\net6.0\CleanArchMcv.Domain.AssemblyInfo.cs
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\obj\Debug\net6.0\CleanArchMcv.Domain.csproj.CoreCompileInputs.cache
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\obj\Debug\net6.0\CleanArchMcv.Domain.dll
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\obj\Debug\net6.0\refint\CleanArchMcv.Domain.dll
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\obj\Debug\net6.0\CleanArchMcv.Domain.pdb
+E:\Users\zedlu\Documents\Projetos\C#\CleanArchMvc\CleanArchMcv.Domain\obj\Debug\net6.0\ref\CleanArchMcv.Domain.dll
